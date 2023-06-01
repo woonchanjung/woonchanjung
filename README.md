@@ -4,9 +4,7 @@
 
 ## Full-Stack Developer, located in California
   
-I am inspired by the idea of utilizing technology to develop products that can make a significant difference in people's lives. 
-
-If you are interested in having a conversation, please do not hesitate to contact me.
+I am all ears and arms to all opportunities that may come. Please let me know if you want to collaborate!
  
   </div>
   
