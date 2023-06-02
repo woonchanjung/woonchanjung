@@ -55,13 +55,13 @@ I am all ears and arms to all opportunities that may come. Please let me know if
 
  <div align="center">
    <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=woonchanjung&theme=chartreuse-dark" alt="Gift's LangStat" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=woonchanjung&langs_count=10&show_icons=true&locale=en&layout=compact&theme=light" alt="Gift's language" height="192px"  width="500px"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=woonchanjung&langs_count=10&show_icons=true&locale=en&layout=compact&theme=dark" alt="Gift's language" height="192px"  width="500px"/>
 </div>
 
 **Expand to view**
 
 <details>
-  <summary><b>:zap: GitHub Profile Stat</b></summary>
+  <summary><b>⚡ GitHub Profile Stat</b></summary>
   <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=woonchanjung&show_icons=true" />
 </details>
 <details>
