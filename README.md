@@ -36,14 +36,6 @@ I am all ears and arms to all opportunities that may come. Please let me know if
  
  <div align="center">
   
-## Most Used Languages :speech_balloon:
-  
-   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anthonykhong&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-  
- </div>
- 
-  <div align="center">
-  
 ## Let's connect! :calling:
 
 <a href="https://www.linkedin.com/in/woonchanjung/" target="_blank">
@@ -61,7 +53,7 @@ I am all ears and arms to all opportunities that may come. Please let me know if
 
 ## My GitHub Stats <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px>
 
- <div>
+ <div align="center">
    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lauragift21" alt="Gift's LangStat" />
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lauragift21&langs_count=10&show_icons=true&locale=en&layout=compact&theme=light" alt="Gift's language" height="192px"  width="500px"/>
 </div>
