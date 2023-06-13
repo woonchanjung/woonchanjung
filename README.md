@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 <img width="100" src="https://github.com/alansmathew/alansmathew/raw/master/lang.gif" alt="lang image here" /> I'm Woonchan (John) Jung
+# <img width="100" src="https://github.com/alansmathew/alansmathew/raw/master/lang.gif" alt="lang image here" /> I'm Woonchan (John) Jung
 
 ## Full-Stack Developer, located in California
 <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="300">
