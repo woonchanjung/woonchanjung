@@ -1,5 +1,5 @@
 <div align="center">
-<p><img width=15%" src="https://github.com/alansmathew/alansmathew/raw/master/lang.gif" alt="lang image here" /></p>
+<p><img width=10%" src="https://github.com/alansmathew/alansmathew/raw/master/lang.gif" alt="lang image here" /></p>
 
 # Hi 👋, I'm Woonchan (John) Jung
 
