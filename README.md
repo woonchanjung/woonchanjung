@@ -67,12 +67,6 @@ I am all ears and arms to all opportunities that may come. Please let me know if
   <summary><b>⚡ GitHub Profile Stat</b></summary>
   <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=woonchanjung&show_icons=true" />
 </details>
-<details>
-  <summary><b>⚡ Recent GitHub Activity</b></summary>
-  <br/>
-   <a href="https://github.com/woonchanjung/"><img alt="Gift' Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=woonchanjung&custom_title=Gift's%20Contribution%20Graph&theme=react-dark" /></a>
-  <br/>
-</details>
 
 <!-- GitHub section: END -->
 
