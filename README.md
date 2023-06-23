@@ -74,12 +74,32 @@ Please let me know if you want to collaborate!
 </div>
 <hr>
 
+<h1> Joke to make you Laugh 😁 </h1>
+
+<p align="center">
+<img src="https://readme-jokes.vercel.app/api?theme=night-owl" alt="Jokes😁 Refresh the page for a New Joke"> </p>
+
 **Expand to view**
 
 <details>
   <summary><b>⚡ GitHub Profile Stat</b></summary>
   <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=woonchanjung&show_icons=true" />
 </details>
+
+<!-- Thanks for your Visit -->
+<div align="center">
+<a href="https://git.io/typing-svg">
+<img alt="Thanks for your visit ❤️" src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&size=24&pause=1000&color=7E3ACECE&center=true&vCenter=true&width=435&lines=Thanks+for+your+visit+❤️" > </a>
+
+<!-- Back to TOP -->
+<p align="right">
+<a href="#top">
+<img src="https://img.shields.io/static/v1?label&message=Back+to+Top&color=red&style=for-the-badge&logo" alt="Back to Top" /> </a> </p>
+
+<!-- Footer -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
 
 <!-- GitHub section: END -->
 
