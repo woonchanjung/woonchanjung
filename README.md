@@ -1,3 +1,8 @@
+<!-- Header -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header"/>
+</p>
+
 <div align="center">
 
 # <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px"> <img width="100" src="https://github.com/alansmathew/alansmathew/raw/master/lang.gif" alt="lang image here" /> I'm Woonchan (John) Jung
@@ -87,7 +92,9 @@ Please let me know if you want to collaborate!
 <!-- Thanks for your Visit -->
 <div align="center">
 <a href="https://git.io/typing-svg">
-<img alt="Thanks for your visit ❤️" src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&size=24&pause=1000&color=7E3ACECE&center=true&vCenter=true&width=435&lines=Thanks+for+your+visit+❤️" > </a>
+<img alt="Thanks for your visit ❤️" src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&size=15&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Thanks+for+your+visit+❤️" > </a>
+
+[![BUY ME A COFFEE](https://img.shields.io/badge/Buy%20Me%20a%20Coffee%20☕-%23FFDD00.svg?&style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/woonchanjung)
 
 <!-- Back to TOP -->
 <p align="right">
