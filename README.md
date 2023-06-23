@@ -74,16 +74,14 @@ Please let me know if you want to collaborate!
 </div>
 <hr>
 
-<h1> Joke to make you Laugh 😁 </h1>
-
-<p align="center">
-<img src="https://readme-jokes.vercel.app/api?theme=night-owl" alt="Jokes😁 Refresh the page for a New Joke"> </p>
-
 **Expand to view**
 
 <details>
   <summary><b>⚡ GitHub Profile Stat</b></summary>
   <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=woonchanjung&show_icons=true" />
+  <h1> Joke to make you Laugh 😁 </h1>
+  <p align="center">
+  <img src="https://readme-jokes.vercel.app/api?theme=night-owl" alt="Jokes😁 Refresh the page for a New Joke"> </p>
 </details>
 
 <!-- Thanks for your Visit -->
