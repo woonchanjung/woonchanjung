@@ -59,10 +59,10 @@ Please let me know if you want to collaborate!
 <details>
   <summary><b>⚡ GitHub Profile Stat</b></summary>
   <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=woonchanjung&show_icons=true" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=woonchanjung&theme=chartreuse-dark" alt="Gift's LangStat" />
   <h1> Joke to make you Laugh 😁 </h1>
   <p align="center">
   <img src="https://readme-jokes.vercel.app/api?theme=night-owl" alt="Jokes😁 Refresh the page for a New Joke"> </p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=woonchanjung&theme=chartreuse-dark" alt="Gift's LangStat" />
 </details>
 
 <!-- Thanks for your Visit -->
