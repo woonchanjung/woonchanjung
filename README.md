@@ -9,7 +9,7 @@
 
 ## Full-Stack Developer, located in California
 
-<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="300">
+<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="200">
 
 I am all ears and arms to all opportunities that may come. </br>
 Please let me know if you want to collaborate!
