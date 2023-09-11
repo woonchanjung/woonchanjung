@@ -23,6 +23,7 @@ Please let me know if you want to collaborate!
 | Skills | Technologies |
 |--------|--------------|
 | Front-End |
+| Back-End |
 
 ### Front-End
 
